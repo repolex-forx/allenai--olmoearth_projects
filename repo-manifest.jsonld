@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/olmoearth_projects/commit/a628d1a5fa7586402451d169d0ef73680486e209",
       "git:hexsha": "a628d1a5fa7586402451d169d0ef73680486e209",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
